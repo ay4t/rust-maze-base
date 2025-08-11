@@ -1,6 +1,8 @@
 # 📘 Rust Maze Base Designer (v0.1)
 Design labyrinth-style Rust bases with multi-TC support, dead-end TC placement, and armored metal decoy walls. Outputs a clean 1920×1920 PNG floor plan and a structured JSON.
 
+<img width="1920" height="1920" alt="maze_design_20250811162107" src="https://github.com/user-attachments/assets/c42f670d-c541-4558-8c3f-45ce5ac4b4b6" />
+
 ## ✨ Features
 - 2D maze generation on a flexible grid (auto-expands if constraints require more space).
 - TC placement strictly at maze dead-ends, with minimum TC-to-TC distance and a safety margin from outer borders.
